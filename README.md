@@ -1,14 +1,14 @@
-#Atividades de Engenharia de Software
+# Atividades de Engenharia de Software
 Este repositório contém duas atividades da disciplina de Engenharia de Software.
-#Discente: Emily Almeida Aberu
-#Estrutura do projeto
-##lab_todolist
+# iscente: Emily Almeida Aberu
+# Estrutura do projeto
+## lab_todolist
 Aplicação web de lista de tarefas desenvolvida com Flask.
-###Tecnologias utilizadas:
-*Python
-*Flask
+### Tecnologias utilizadas:
+* Python
+* Flask
 *HTML/CSS
-##audiodescricao
+## audiodescricao
 Audiodescrição de uma imagem e a imagem descrita.
-#Licensa
+# Licensa
 Este projeto é destinado apenas para fins educacionais.
