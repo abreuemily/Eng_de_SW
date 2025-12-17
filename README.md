@@ -7,7 +7,7 @@ Aplicação web de lista de tarefas desenvolvida com Flask.
 ### Tecnologias utilizadas:
 * Python
 * Flask
-*HTML/CSS
+* HTML/CSS
 ## audiodescricao
 Audiodescrição de uma imagem e a imagem descrita.
 # Licensa
